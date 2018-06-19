@@ -9,23 +9,23 @@
 
 ![](/assets/select girl meme.png)
 
-4. After selecting the meme template you have to provide an **UPPER TEXT** or a underscore to leave the **TOP** area empty.
+4.  After selecting the meme template you have to provide an **UPPER TEXT** or a underscore to leave the **TOP** area empty.
 
 ![](/assets/HOODINI HACKED IT.png)
 
-5. Same game with the bottom text. Provide some text or an underscore to leave it empty.
+5.  Same game with the bottom text. Provide some text or an underscore to leave it empty.
 
 ![](/assets/bottom message.png)
 
-6. Now G4M3R asks you to provide a custom name for your meme, so you will later recognize it in your meme repository.
+6.  Now G4M3R asks you to provide a custom name for your meme, so you will later recognize it in your meme repository.
 
 ![](/assets/oof.png)
 
-7. Finally you have options to just post the meme, post and save or to only save the meme without posting.
+7.  Finally you have options to just post the meme, post and save or to only save the meme without posting.
 
 ![](/assets/post.png)
 
-8. Next time you want to use that meme again you have two options.
+8.  Next time you want to use that meme again you have two options.
 
 9. Either write `.meme <the name of what you called your meme>` in our case this would be `.meme the girl that hacked the fire`
 
