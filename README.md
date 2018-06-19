@@ -38,5 +38,3 @@
 
 11\) I hope now it is more clear on how to use G4M3R's meme generator.
 
-
-
